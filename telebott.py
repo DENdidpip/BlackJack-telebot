@@ -3,7 +3,7 @@ import random
 import time
 from telebot import types
 
-bot = telebot.TeleBot('6917149428:AAG8uOv3QH4ldh59WFyuUX6qIgoCSnwY-zw')
+bot = telebot.TeleBot('your token')
 
 class Card:
 
